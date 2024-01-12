@@ -1,2 +1,4 @@
 # DataScience
-McMaster University CSE780 Assignments and Project
+McMaster University CSE780 Project
+
+Stroke, as an epidemic that kills millions of people every year, has become a health issue that we need to be concerned about. If the risk of stroke can be predicted based on an individual’s health information, it will reduce the prevalence of the disease in non-patients, as well as help patients to receive timely treatment and reduce mortality. Therefore, the main goal of the project is to find the factors most associated with stroke risk and to build a prediction model based on this information. This will help doctors more accurately assess a patient’s stroke risk and give timely medical advice. This dataset(FEDESORIANO 2023) contains health information on 5110 patients with confirmed or undiagnosed stroke obtained from the Kaggle platform, which is detailed and helps to find potential risk factors.
